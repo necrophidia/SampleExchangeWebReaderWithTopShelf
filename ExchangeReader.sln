@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeReader", "ExchangeReader\ExchangeReader.csproj", "{956CC9A6-8C10-4ED2-A6BB-A47AA25FAEFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Deploy|Any CPU = Deploy|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{956CC9A6-8C10-4ED2-A6BB-A47AA25FAEFC}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{956CC9A6-8C10-4ED2-A6BB-A47AA25FAEFC}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{956CC9A6-8C10-4ED2-A6BB-A47AA25FAEFC}.Debug|Any CPU.Deploy.0 = Release|Any CPU
+		{956CC9A6-8C10-4ED2-A6BB-A47AA25FAEFC}.Deploy|Any CPU.ActiveCfg = Deploy|Any CPU
+		{956CC9A6-8C10-4ED2-A6BB-A47AA25FAEFC}.Deploy|Any CPU.Build.0 = Deploy|Any CPU
+		{956CC9A6-8C10-4ED2-A6BB-A47AA25FAEFC}.Deploy|Any CPU.Deploy.0 = Deploy|Any CPU
+		{956CC9A6-8C10-4ED2-A6BB-A47AA25FAEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{956CC9A6-8C10-4ED2-A6BB-A47AA25FAEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
